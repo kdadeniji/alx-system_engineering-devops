@@ -1,1 +1,2 @@
+#!/bin/bsh
 ln -s /bin/ls__/s__
